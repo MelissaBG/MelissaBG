@@ -1,12 +1,14 @@
-### Hi there 👋
-
+### 👋 Hello! Welcome to my Github profile.
+## My name is Melissa Goulart and my nickname is "MelissaBG"!
 <!--
 **MelissaBG/MelissaBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+•	Trabalho pela manhã na Unidade de TI do Departamento Municipal de Habitação de Porto Alegre e estudo no período da noite na FUNDATEC. 
 - 🌱 I’m currently learning ...
+•	JAVA, HTML, CSS E Java Script
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
